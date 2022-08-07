@@ -1,5 +1,5 @@
 {
-  "name": "@thaldrin/fuzzysearch",
+  "name": "@yiff/search",
   "version": "0.0.3",
   "description": "API Wrapper for the Fuzzysearch API",
   "main": "build/src/index.js",
